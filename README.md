@@ -1,4 +1,4 @@
-# Satvik Dubey's Portfolio
+# Suman Kamarthapu Portfolio
 
 A modern, interactive portfolio website built with React, TypeScript, and Framer Motion.
 
@@ -13,7 +13,7 @@ A modern, interactive portfolio website built with React, TypeScript, and Framer
 
 ## Chatbot Integration
 
-This portfolio includes an AI-powered chatbot assistant that can answer questions about Satvik's background, projects, and experience.
+This portfolio includes an AI-powered chatbot assistant that can answer questions about Suman's background, projects, and experience.
 
 ### Setup
 
